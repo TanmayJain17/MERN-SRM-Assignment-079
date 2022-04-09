@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # About the app:
 SRM LANDING PAGE. 
 
@@ -26,3 +27,6 @@ Link: [SRM Landing Page](https://srm-landingpage-079.netlify.app/)
 <img width="1440" alt="Screenshot 2021-05-01 at 6 03 01 PM" src="./pictures/Screenshot (974).png"> -->
 
 ***
+=======
+
+>>>>>>> 9f3ec24ffe54b33b64a97a957ec03693cc607bf0
